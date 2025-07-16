@@ -19,7 +19,6 @@ The program was designed to be interactive, visual, and efficient, graphically s
 
 
 ## Table of Contents
-- [Wiki](https://github.com/miguelvmonroy/2D-Path-Planning-Tool-in-Matlab/wiki)
 
 🛠 Technologies Used
 

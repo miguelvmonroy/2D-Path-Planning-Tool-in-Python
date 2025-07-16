@@ -6,7 +6,7 @@
 
 
 
-This program was developed in MATLAB and aims to visualize a curved trajectory generated from points selected by the user. Through a mathematical interpolation process, the code smooths the trajectory and calculates its curvature, that is, it measures how much it bends or changes direction in each segment.
+This program was developed in PYTHON and aims to visualize a curved trajectory generated from points selected by the user. Through a mathematical interpolation process, the code smooths the trajectory and calculates its curvature, that is, it measures how much it bends or changes direction in each segment.
 
 The selected points are visually displayed, along with a line that changes color according to the curvature: the more intense the curvature, the more the color changes. This can be useful, for example, in trajectory analysis for robots, vehicles, or any system that must follow a specific path.
 
@@ -23,4 +23,4 @@ The program was designed to be interactive, visual, and efficient, graphically s
 
 🛠 Technologies Used
 
-Matlab
+Python

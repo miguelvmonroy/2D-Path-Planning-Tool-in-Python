@@ -33,7 +33,8 @@ pip install numpy matplotlib mplcursors scikit-learn
 
 ## 🧠 Créditos
 
-Autor: Miguel Eduardo Venegas Monroy  
+Autor: Miguel Eduardo Venegas Monroy 
+       Ricardo Cuesta
 Fecha: Julio 2025
 
 
